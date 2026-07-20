@@ -1,9 +1,5 @@
-# SMS-Spam-Classifier
+# SMS-Spam-Classifier Using NLP
 SMS Spam Classifier using Natural Language Processing (NLP) and Multinomial Naive Bayes. Performs text preprocessing, Bag of Words vectorization, spam prediction, and model evaluation using Accuracy Score and Confusion Matrix.
-
-# 📩 SMS Spam Classifier using NLP
-
-This project is a machine learning-based **SMS Spam Classifier** that identifies whether a text message is **Spam** or **Ham (Not Spam)**. It uses **Natural Language Processing (NLP)** techniques for text preprocessing and the **Multinomial Naive Bayes** algorithm for classification.
 
 ## 🚀 Features
 
