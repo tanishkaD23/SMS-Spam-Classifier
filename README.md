@@ -30,17 +30,6 @@ SMS Spam Classifier using Natural Language Processing (NLP) and Multinomial Naiv
 5. Train a Multinomial Naive Bayes classifier.
 6. Predict message labels and evaluate the model.
 
-## ▶️ How to Run
-
-1. Clone this repository.
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Python script:
-   ```bash
-   python spam_classifier.py
-   ```
 
 ## 📊 Output
 
